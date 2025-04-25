@@ -1,62 +1,75 @@
-# 🏥 Hospital Emergency Room Dashboard
+### 🏥 **Hospital Emergency Room Dashboard**
 
-A dynamic Power BI dashboard that provides actionable insights into hospital emergency room performance — helping healthcare professionals optimize patient care, reduce wait times, and allocate resources efficiently.
-
-
-## 📊 Key Metrics
-
-- ER Visits: 6,219
-
-- Average Wait Time: 21 minutes
-
-- Average Treatment Duration: 55 minutes
-
-- Admission Rate: 28%
-
-- Bed Occupancy Rate: 88%
-
-- Left Without Being Seen (LWBS): 1%
-
-- Discharge Rate: 72%
+This dynamic **Power BI dashboard** is designed to help healthcare professionals manage and optimize **Emergency Room (ER)** operations. It provides critical insights into patient flow, resource usage, and overall ER performance.
 
 
+### 📊 **Key Metrics**
 
-## 🔍 Key Insights
+1. **ER Visits**: 
+   - Total number of patients visiting the ER: **6,219**.
+   
+2. **Average Wait Time**: 
+   - The average time a patient waits before being seen by a healthcare professional: **21 minutes**.
 
-- **Patient Flow Peaks**  
-  Traffic surges in **evenings** and **weekends**, requiring more staff during those hours.
+3. **Average Treatment Duration**: 
+   - The average time taken to treat a patient: **55 minutes**.
 
-- **Top Diagnoses**  
-  Common ER cases include **Chest Pain**, **Fractures**, **Shortness of Breath**, and **Abdominal Pain**.
+4. **Admission Rate**: 
+   - Percentage of ER patients admitted for further treatment: **28%**.
 
-- **Efficient Triage**  
-  Most patients are seen within **30 minutes**, meeting standard care benchmarks.
+5. **Bed Occupancy Rate**: 
+   - Percentage of hospital beds occupied by ER patients: **88%**. This high rate indicates potential concerns about capacity and patient flow.
 
-- **Admission Trends**  
-  Majority of admissions are from **high-severity** cases, supporting triage effectiveness.
+6. **Left Without Being Seen (LWBS)**: 
+   - Percentage of patients who leave the ER before being treated: **1%**. A very low percentage, indicating good initial care processes.
 
-- **Balanced Demographics**  
-  Majority of patients are aged **25–60**, with near-equal gender distribution.
-
-- **ER Resource Usage**  
-  High **bed occupancy** indicates need for better flow or additional infrastructure.
-
-
-
-## 🛠 Tools and Technologies Used
-
-- **Power BI** – For building interactive visual dashboards  
-- **DAX (Data Analysis Expressions)** – For calculated columns and KPIs  
-- **Power Query** – For data transformation and cleaning  
-- **Excel** – For data management and integration  
-- **Map Visuals** – For analyzing patient locations 
+7. **Discharge Rate**: 
+   - Percentage of ER patients discharged after treatment: **72%**.
 
 
+### 🔍 **Key Insights**
 
-## 📬 Contact
+1. **Patient Flow Peaks**: 
+   - **Peak Times**: The ER sees higher traffic in the **evenings** and on **weekends**, suggesting a need for more staff during these peak hours.
+   
+2. **Top Diagnoses**:
+   - The most common reasons for ER visits include:
+     - **Chest Pain**
+     - **Fractures**
+     - **Shortness of Breath**
+     - **Abdominal Pain**
+   
+3. **Efficient Triage**:
+   - **Triage Efficiency**: The majority of patients are seen within **30 minutes**, which aligns with standard benchmarks for emergency care.
+
+4. **Admission Trends**:
+   - **High-Severity Cases**: A significant portion of patients admitted to the hospital comes from **high-severity cases**, which indicates that triage protocols are effective in identifying patients who need urgent care.
+
+5. **Balanced Demographics**:
+   - **Age and Gender**: The majority of ER patients are aged **25–60 years**, with a fairly **balanced gender distribution**, helping ER staff prepare for a variety of cases.
+
+6. **ER Resource Usage**:
+   - **Bed Occupancy**: The **88% bed occupancy** rate shows that the ER might need more resources or a better system for managing patient flow to avoid overcrowding and improve efficiency.
+
+
+### 🛠 **Tools and Technologies Used**
+
+1. **Power BI**:
+   - Power BI is used for building **interactive visual dashboards** that allow users to quickly access insights and track real-time ER data.
+
+2. **DAX (Data Analysis Expressions)**:
+   - DAX is used for creating **calculated columns** and **Key Performance Indicators (KPIs)** to summarize data and provide actionable insights.
+
+3. **Power Query**:
+   - Power Query helps with **data transformation and cleaning**, ensuring that the data is in the right format for analysis and visualization.
+
+4. **Excel**:
+   - Excel is used for **data management and integration** with other systems, ensuring smooth data workflows and connections.
+
+
+### 📬 **Contact**
 
 **Vaibhav Bari**  
-🎓 Aspiring Data Scientist | Data Analyst | Power BI Enthusiast   
+🎓 Aspiring Data Scientist | Data Analyst | Power BI Enthusiast  
 🔗 [LinkedIn](https://linkedin.com/in/vaibhavbari)  
-📧 bariv219@gmail.com *(replace with your real email)*  
-
+📧 bariv219@gmail.com  
