@@ -2,18 +2,24 @@
 
 A dynamic Power BI dashboard that provides actionable insights into hospital emergency room performance — helping healthcare professionals optimize patient care, reduce wait times, and allocate resources efficiently.
 
----
 
 ## 📊 Key Metrics
 
 Total ER Visits: 6,219
+
 Average Wait Time: 21 minutes
+
 Average Treatment Duration: 55 minutes
+
 Admission Rate: 28%
+
 Bed Occupancy Rate: 88%
+
 Left Without Being Seen (LWBS): 1%
+
 Discharge Rate: 72%
----
+
+
 
 ## 🔍 Key Insights
 
@@ -35,7 +41,7 @@ Discharge Rate: 72%
 - **ER Resource Usage**  
   High **bed occupancy** indicates need for better flow or additional infrastructure.
 
----
+
 
 ## 🛠 Tools and Technologies Used
 
@@ -45,13 +51,12 @@ Discharge Rate: 72%
 - **Excel** – For data management and integration  
 - **Map Visuals** – For analyzing patient locations 
 
----
+
 
 ## 📬 Contact
 
 **Vaibhav Bari**  
-🎓 Aspiring Data Scientist | Data Analyst | Power BI Enthusiast  
-📍 Currently pursuing MCA in Data Science at MIT University  
+🎓 Aspiring Data Scientist | Data Analyst | Power BI Enthusiast   
 🔗 [LinkedIn](https://linkedin.com/in/vaibhavbari)  
 📧 bariv219@gmail.com *(replace with your real email)*  
 
