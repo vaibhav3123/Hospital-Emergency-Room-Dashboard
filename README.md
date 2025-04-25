@@ -5,19 +5,19 @@ A dynamic Power BI dashboard that provides actionable insights into hospital eme
 
 ## 📊 Key Metrics
 
-Total ER Visits: 6,219
+- ER Visits: 6,219
 
-Average Wait Time: 21 minutes
+- Average Wait Time: 21 minutes
 
-Average Treatment Duration: 55 minutes
+- Average Treatment Duration: 55 minutes
 
-Admission Rate: 28%
+- Admission Rate: 28%
 
-Bed Occupancy Rate: 88%
+- Bed Occupancy Rate: 88%
 
-Left Without Being Seen (LWBS): 1%
+- Left Without Being Seen (LWBS): 1%
 
-Discharge Rate: 72%
+- Discharge Rate: 72%
 
 
 
